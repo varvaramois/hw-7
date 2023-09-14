@@ -1,0 +1,6 @@
+.text-list {
+    color: red;
+}
+ul + p {
+    font-size: 24px;
+}
